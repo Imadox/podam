@@ -4,5 +4,4 @@ machine:
   java:
     version: oraclejdk8
 
-general:
-  build_dir: src
+
